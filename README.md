@@ -6,6 +6,8 @@ the San Diego AgTech Hackathon 2026.
 
 Live at https://tasker.tlatoani.net (once the Cloudflare connection below is made).
 
+Print or show https://tasker.tlatoani.net/qr so people can scan their way in.
+
 ## How it works
 
 - **App**: Flutter web as an installable PWA, with a Flame-drawn farm map (`lib/`).

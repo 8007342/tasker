@@ -25,5 +25,6 @@
 ## 5. Deployment
 
 - [x] 5.1 wrangler.jsonc with tasker.tlatoani.net, npm build, pinned Flutter
+- [x] 5.4 Standalone /qr page linking to the live app
 - [ ] 5.2 Connect the repository in Cloudflare Workers Builds (done by the account owner)
 - [ ] 5.3 Confirm the first build and the live site
