@@ -1,0 +1,8 @@
+schema: spec-driven
+
+context: |
+  Users include farm workers who may not read: anything a worker must act on is carried
+  by icon, colour, position and (later) recordings, never by text alone.
+  Farms have weak or no signal: every worker action must succeed offline.
+  Keep controllers as simple as possible: plain ChangeNotifier, pure rule functions.
+  Production is https://tasker.tlatoani.net on Cloudflare Workers, deployed by pushing main.

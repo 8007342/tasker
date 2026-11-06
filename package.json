@@ -1,0 +1,11 @@
+{
+  "name": "tasker",
+  "private": true,
+  "scripts": {
+    "build": "bash tool/cloudflare_build.sh",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.158.0"
+  }
+}
